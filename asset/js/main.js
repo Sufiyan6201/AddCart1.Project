@@ -55,13 +55,13 @@ var products = [
 
   { img: "asset/images/1.avif", name: "Formal-Shirt", dise: " Lorem ipsum dolor sit dignissimos?", price: "$234", offer: "$200", Limited: "Limited Time Offer" ,btn:"Add to Cart" },
   { img: "asset/images/2.avif", name: "Blazer-Gray", dise: " Lorem ipsum dolor sit dignissimos?", price: "$290", offer: "$250", Limited: "Limited Time Offer" ,btn:"Add to Cart" },
-  { img: "asset/images/3.jpg", name: "Formal", dise: " Lorem ipsum dolor sit dignissimos?", price: "$304", offer: "$260", Limited: "Limited Time Offer" ,btn:"Add to Cart" },
+  { img: "asset/images/3.jpg", name: "Formal-Where", dise: " Lorem ipsum dolor sit dignissimos?", price: "$304", offer: "$260", Limited: "Limited Time Offer" ,btn:"Add to Cart" },
   { img: "asset/images/4.avif", name: "Texito-Blazer", dise: " Lorem ipsum dolor sit dignissimos?", price: "$400", offer: "$290", Limited: "Limited Time Offer" ,btn:"Add to Cart" },
   { img: "asset/images/5.avif", name: "Casual-Blazer", dise: " Lorem ipsum dolor sit dignissimos?", price: "$240", offer: "$150", Limited: "Limited Time Offer" ,btn:"Add to Cart" },
   { img: "asset/images/6.avif", name: "Checks-Blazer", dise: " Lorem ipsum dolor sit dignissimos?", price: "$240", offer: "$150", Limited: "Limited Time Offer" ,btn:"Add to Cart" },
   { img: "asset/images/1.avif", name: "Formal-Shirt", dise: " Lorem ipsum dolor sit dignissimos?", price: "$234", offer: "$200", Limited: "Limited Time Offer" ,btn:"Add to Cart" },
   { img: "asset/images/2.avif", name: "Blazer-Gray", dise: " Lorem ipsum dolor sit dignissimos?", price: "$290", offer: "$250", Limited: "Limited Time Offer" ,btn:"Add to Cart" },
-  { img: "asset/images/3.jpg", name: "Formal-where", dise: " Lorem ipsum dolor sit dignissimos?", price: "$304", offer: "$260", Limited: "Limited Time Offer" ,btn:"Add to Cart" },
+  { img: "asset/images/3.jpg", name: "Formal-Where", dise: " Lorem ipsum dolor sit dignissimos?", price: "$304", offer: "$260", Limited: "Limited Time Offer" ,btn:"Add to Cart" },
   { img: "asset/images/4.avif", name: "Texito-Blazer", dise: " Lorem ipsum dolor sit dignissimos?", price: "$400", offer: "$290", Limited: "Limited Time Offer" ,btn:"Add to Cart" },
   { img: "asset/images/5.avif", name: "Casual-Blazer", dise: " Lorem ipsum dolor sit dignissimos?", price: "$240", offer: "$150", Limited: "Limited Time Offer" ,btn:"Add to Cart" },
   { img: "asset/images/6.avif", name: "Checks-Blazer", dise: " Lorem ipsum dolor sit dignissimos?", price: "$240", offer: "$150", Limited: "Limited Time Offer" ,btn:"Add to Cart" }
