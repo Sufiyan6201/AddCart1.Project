@@ -25,3 +25,6 @@ p:hover {
 span , .offer{
   display: none;
 }
+.containers{
+  max-width: 1380px !important;
+}
