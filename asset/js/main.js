@@ -69,8 +69,8 @@ var products = [
 
 var productHtml = "";
 products.forEach((products) => {
-  productHtml += ` <div class=" col-md-3 text-center ">
-                <div class="card  mt-4 mb-4">
+  productHtml += ` <div class=" col-md-3  mt-4 mb-4 text-center ">
+                <div class="card ">
                 <div class="cards">
                     <div class="overflow-hidden">
                         <img src="${products.img}" class="pr object-fit-cover" height="300px"alt="">
